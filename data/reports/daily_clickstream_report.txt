@@ -1,0 +1,27 @@
+Daily E-Commerce Clickstream Report
+===================================
+
+Top 5 Most Viewed Products
+--------------------------
+product_id
+P105    320
+P102    320
+P101    311
+P103    300
+P104    285
+Name: count, dtype: int64
+
+User Segmentation
+-----------------
+Total Buyers: 51
+Total Window Shoppers: 0
+
+Conversion Rate by Category
+---------------------------
+            views  purchases  conversion_rate_percent
+category                                             
+Camera        320         61                    19.06
+Headphones    300         44                    14.67
+Laptop        311         62                    19.94
+Mobile        320         71                    22.19
+Smartwatch    285         53                    18.60
